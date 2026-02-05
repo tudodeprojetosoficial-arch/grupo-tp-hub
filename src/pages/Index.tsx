@@ -4,15 +4,15 @@ const Index = () => {
   const businessLinks = [
     {
       title: "Obras Residenciais",
-      url: "#", // Substituir pelo link real
+      url: "https://tudodeprojetos.com/",
     },
     {
       title: "Obras Industriais, Comerciais e Públicas",
-      url: "#", // Substituir pelo link real
+      url: "https://tudodeprojetos.com/obrascomerciaiseindustriais/",
     },
     {
       title: "Consultoria Imobiliária",
-      url: "#", // Substituir pelo link real
+      url: "https://imobiliaria.tudodeprojetos.com/",
     },
   ];
 
