@@ -25,7 +25,7 @@ const Index = () => {
           <img
             src={logoGrupoTP}
             alt="Grupo TP - Tudo de Projetos"
-            className="h-28 sm:h-36 md:h-44 w-auto"
+            className="h-40 sm:h-52 md:h-64 w-auto"
           />
         </div>
 
